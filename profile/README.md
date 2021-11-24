@@ -1,9 +1,22 @@
 ## Hi there 👋
 
+Packages and notebooks :
+
 - [AIBECS](https://github.com/JuliaOcean/AIBECS.jl) The ideal tool for exploring global marine biogeochemical cycles.
 - [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) This package simulates the behaviors of an ensemble of phytoplankton individuals.
-- [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) Julia users and tools for oceanography (OSM20 workshop)
+- [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) Ocean color data processing and analysis
+- [ArgoData.jl](https://github.com/JuliaOcean/ArgoData.jl) Argo data processing and analysis
+- [AirSeaFluxes.jl](https://github.com/JuliaOcean/AirSeaFluxes.jl) Computation and analysis of air-sea fluxes
 
+Workshops / tutorials :
+
+- [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) Julia users and tools for oceanography (OSM20 workshop)
+- [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) Modeling Marine Ecosystems At Multiple Scales Using Julia
+- [MarineEcosystemNotebooks](https://github.com/JuliaOcean/MarineEcosystemNotebooks) Marine ecosystem observations and models
+
+More : 
+
+- [meta](https://github.com/JuliaOcean/meta) Discussions about a Julia organization dedicated to Ocean sciences, research, education, and outreach
 
 <!--
 
