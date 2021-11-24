@@ -2,7 +2,7 @@
 
 Packages and notebooks :
 
-- [AIBECS](https://github.com/JuliaOcean/AIBECS.jl) The ideal tool for exploring global marine biogeochemical cycles.
+- [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) [![GitHub stars](https://img.shields.io/github/stars/JuliaOcean/AIBECS.jl.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JuliaOcean/AIBECS.jl/stargazers/) The ideal tool for exploring global marine biogeochemical cycles.
 - [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) This package simulates the behaviors of an ensemble of phytoplankton individuals.
 - [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) Ocean color data processing and analysis
 - [ArgoData.jl](https://github.com/JuliaOcean/ArgoData.jl) Argo data processing and analysis
