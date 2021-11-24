@@ -2,8 +2,8 @@
 
 Packages and notebooks :
 
-- [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/AIBECS.jl)](https://GitHub.com/JuliaOcean/AIBECS.jl/stargazers/) [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) The ideal tool for exploring global marine biogeochemical cycles.
-- [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) This package simulates the behaviors of an ensemble of phytoplankton individuals.
+- [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) The ideal tool for exploring global marine biogeochemical cycles [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/AIBECS.jl)](https://GitHub.com/JuliaOcean/AIBECS.jl/stargazers/)
+- [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) This package simulates the behaviors of an ensemble of phytoplankton individuals [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
 - [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) Ocean color data processing and analysis
 - [ArgoData.jl](https://github.com/JuliaOcean/ArgoData.jl) Argo data processing and analysis
 - [AirSeaFluxes.jl](https://github.com/JuliaOcean/AirSeaFluxes.jl) Computation and analysis of air-sea fluxes
