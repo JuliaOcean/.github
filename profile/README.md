@@ -8,7 +8,7 @@
 - [PhysicalOceanography.jl](https://github.com/JuliaOcean/PhysicalOceanography.jl) Physical Oceanography and related topics[![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PhysicalOceanography.jl)](https://GitHub.com/JuliaOcean/PhysicalOceanography.jl/stargazers/)
 - [AirSeaFluxes.jl](https://github.com/JuliaOcean/AirSeaFluxes.jl) Computation and analysis of air-sea fluxes [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/AirSeaFluxes.jl)](https://GitHub.com/JuliaOcean/AirSeaFluxes.jl/stargazers/)
 - [OceanRobots.jl](https://github.com/JuliaOcean/OceanRobots.jl) Simulation and analysis of data from ocean robots [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanRobots.jl)](https://GitHub.com/JuliaOcean/OceanRobots.jl/stargazers/)
-- [ArgoData.jl](https://github.com/JuliaOcean/ArgoData.jl) Argo data processing and analysis [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/ArgoData.jl)](https://GitHub.com/JuliaOcean/ArgoData.jl/stargazers/)
+- [ArgoData.jl](https://github.com/JuliaOcean/ArgoData.jl) Argo data processing and analysis [![GitHub stars](https://badgen.net/github/stars/euroargodev/ArgoData.jl)](https://GitHub.com/euroargodev/ArgoData.jl/stargazers/)
 - [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) Ocean color data processing and analysis [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanColorData.jl)](https://GitHub.com/JuliaOcean/OceanColorData.jl/stargazers/)
 
 ### Workshops and Tutorials
