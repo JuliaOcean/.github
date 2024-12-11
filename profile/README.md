@@ -4,10 +4,10 @@
 
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) The ideal tool for exploring global marine biogeochemical cycles [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/AIBECS.jl)](https://GitHub.com/JuliaOcean/AIBECS.jl/stargazers/)
 - [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) Simulate the behaviors of phytoplankton individuals and populations [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
-- [Climatology.jl](https://github.com/JuliaOcean/Climatology.jl) Study Climate using gridded data sets and ocean state estimates. [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanStateEstimation.jl)](https://GitHub.com/JuliaOcean/OceanStateEstimation.jl/stargazers/)
+- [Climatology.jl](https://github.com/JuliaOcean/Climatology.jl) Study Climate using gridded data sets and ocean state estimates. [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/Climatology.jl)](https://GitHub.com/JuliaOcean/Climatology.jl/stargazers/)
 - [OceanRobots.jl](https://github.com/JuliaOcean/OceanRobots.jl) Simulation and analysis of data from ocean robots [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanRobots.jl)](https://GitHub.com/JuliaOcean/OceanRobots.jl/stargazers/)
 - [ArgoData.jl](https://github.com/JuliaOcean/ArgoData.jl) Argo data processing and analysis [![GitHub stars](https://badgen.net/github/stars/euroargodev/ArgoData.jl)](https://GitHub.com/euroargodev/ArgoData.jl/stargazers/)
-- [IndividualDisplacements.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : Trajectory simulations for point particles in Ocean, Atmosphere, etc flow fields [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
+- [Drifters.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : Trajectory simulations for point particles in Ocean, Atmosphere, etc flow fields [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Drifters.jl)](https://GitHub.com/JuliaClimate/Drifters.jl/stargazers/)
 - [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : Gridded earth variables, domain decomposition, and climate model C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
 
 ### Workshops, Notebooks, and More
